@@ -54,11 +54,6 @@ Développeur Fullstack passionné avec une solide base en développement web mod
 
 ## Statistiques GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=premice18&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=58a6ff" alt="GitHub Stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=premice18&layout=compact&theme=radical&hide_border=true&langs_count=6&title_color=ffffff&text_color=ffffff&icon_color=58a6ff" alt="Top Languages" width="400" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=premice18&theme=radical&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff" alt="GitHub Streak" width="400" />
-</div>
+
 
 
