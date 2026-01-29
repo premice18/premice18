@@ -2,9 +2,12 @@
 
 **Développeur Fullstack Junior** passionné par la création de solutions web modernes, basé à Kinshasa 🇨🇩
 
+
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visiter-1a1e2e?style=for-the-badge&logo=react&logoColor=white)](https://premice-portfolio.onrender.com/)
-[![GitHub](https://img.shields.io/badge/🚀_Projets-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/premice18)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/premice-kombozi/)
+[![GitHub](https://img.shields.io/badge/🚀_Projets-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/premice18)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/premice-kombozi)
+
+
 
 ---
 
@@ -14,7 +17,7 @@ Développeur Fullstack passionné avec une solide base en développement web mod
 
 ---
 
-## 🛠️ Stack Technique
+##  Stack Technique
 
 ### **Frontend & UI**
 <p align="center">
@@ -52,10 +55,10 @@ Développeur Fullstack passionné avec une solide base en développement web mod
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Statistiques GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Langages les plus utilisés" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=premice18&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Statistiques GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=premice18&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Langages les plus utilisés" />
   
-  ![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=radical&hide_border=true)
+  ![GitHub Streak](https://streak-stats.demolab.com?user=premice18&theme=radical&hide_border=true)
   
 </div>
 
