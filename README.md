@@ -2,7 +2,7 @@
 
 **Développeur Fullstack Junior** passionné par la création de solutions web modernes, basé à Kinshasa 🇨🇩
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visiter-1a1e2e?style=for-the-badge&logo=react&logoColor=white)](https://premice-portfolio.onrender.com/)
+[![Portfolio](https://img.shields.io/badge/_Portfolio-Visiter-1a1e2e?style=for-the-badge&logo=react&logoColor=white)](https://premice-portfolio.onrender.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/premice18)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/premice-kombozi)
 
@@ -55,11 +55,8 @@ Développeur Fullstack passionné avec une solide base en développement web mod
 ## 📊 Statistiques GitHub
 
 <div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=premice18&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Statistiques GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=premice18&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Langages les plus utilisés" />
-  
-  ![GitHub Streak](https://streak-stats.demolab.com?user=premice18&theme=radical&hide_border=true)
-  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=premice18&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=premice18&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=premice18&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
