@@ -1,4 +1,4 @@
-# 👋 Salut ! Je suis KOMBOZI Premice 
+#  Salut ! Je suis KOMBOZI Premice 
 
 Développeur **Fullstack Junior** à Kinshasa  
 
