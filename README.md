@@ -1,4 +1,4 @@
-# 👋 Salut ! Je suis Premi
+# 👋 Salut ! Je suis KOMBOZI Premice 
 
 Développeur **Fullstack Junior** à Kinshasa  
 
