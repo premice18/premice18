@@ -4,8 +4,9 @@
 
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visiter-1a1e2e?style=for-the-badge&logo=react&logoColor=white)](https://premice-portfolio.onrender.com/)
-[![GitHub](https://img.shields.io/badge/🚀_Projets-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/premice18)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/premice-kombozi)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/premice18)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/premice-kombozi)
+
 
 
 
