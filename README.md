@@ -5,7 +5,7 @@ Développeur **Fullstack Junior** à Kinshasa
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-premice--portfolio.onrender.com-1a1e2e?style=for-the-badge&logo=react&logoColor=white)](https://premice-portfolio.onrender.com/)
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" width="32" height="32"/>
