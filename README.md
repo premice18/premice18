@@ -1,7 +1,7 @@
 # 👋 Salut ! Je suis Premi
 
-Développeur **Fullstack Junior** à Kinshasa 🇨🇩  
-**Formation terminée novembre 2025**
+Développeur **Fullstack Junior** à Kinshasa  
+
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-premice--portfolio.onrender.com-1a1e2e?style=for-the-badge&logo=react&logoColor=white)](https://premice-portfolio.onrender.com/)
 
