@@ -50,15 +50,6 @@ Développeur Fullstack passionné avec une solide base en développement web mod
   <img src="https://skillicons.dev/icons?i=postman" alt="Postman" title="Postman" />
 </p>
 
----
-
-##  Statistiques GitHub
-
-<div align="center">
-
-  <br/>
-  <img height="180em" src="https://streak-stats.demolab.com?user=premice18&theme=radical&hide_border=true" />
-</div>
 
 
 
