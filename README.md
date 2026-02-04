@@ -47,7 +47,7 @@ Développeur Fullstack passionné avec une solide base en développement web mod
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" />
   <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="VS Code" />
   <img src="https://skillicons.dev/icons?i=npm" alt="NPM" title="NPM" />
-  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" title="Postman" />
+  <!-- <img src="https://skillicons.dev/icons?i=postman" alt="Postman" title="Postman" /> -->
 </p>
 
 
