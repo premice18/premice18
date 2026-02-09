@@ -1,5 +1,5 @@
- Hi, I'm KOMBOZI Premice.
+ Hi, I'm KOMBOZI Premice
 
-Junior Fullstack Developer based in Kinshasa.
-Passionate about modern Web Development.
+Junior Fullstack Developer based in Kinshasa
+Passionate about modern Web Development
 Open to collaborations...
